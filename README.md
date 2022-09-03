@@ -2,4 +2,4 @@
 
 - [Click Here] (https://weather29.netlify.app/)
 
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
